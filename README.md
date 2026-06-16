@@ -4,7 +4,7 @@
 
 **Full Stack / Backend Engineer** — building scalable systems and clean APIs.
 
-[![Email](https://img.shields.io/badge/email-info@chinet--tms.et-blue?style=flat-square&logo=gmail)](mailto:info@chinet-tms.et)
+[![Email](https://img.shields.io/badge/email-natnaelalemaraya@gmail.com-blue?style=flat-square&logo=gmail)](mailto:info@chinet-tms.et)
 [![GitHub followers](https://img.shields.io/github/followers/Natty27?style=flat-square&logo=github)](https://github.com/Natty27)
 
 </div>
