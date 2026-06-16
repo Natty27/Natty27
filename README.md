@@ -4,7 +4,7 @@
 
 **Full Stack / Backend Engineer** — building scalable systems and clean APIs.
 
-[![Email](https://img.shields.io/badge/email-natnaelalemaraya@gmail.com-blue?style=flat-square&logo=gmail)](mailto:info@chinet-tms.et)
+[![Email](https://img.shields.io/badge/email-natnaelalemaraya@gmail.com-blue?style=flat-square&logo=gmail)](mailto:natnaelalemaraya@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Natty27?style=flat-square&logo=github)](https://github.com/Natty27)
 
 </div>
@@ -41,19 +41,23 @@ I'm a full stack engineer focused on backend architecture and distributed system
 
 **Frontend**
 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ---
 
-## What I'm Working On
+## Projects
 
-**ChiNet TMS** — a microservices-based Transportation Management System
-
-- Auth service with Fayda National ID (eSignet OIDC) integration
-- Marketplace with cart-based checkout, orders, and ad delivery
-- Real-time notifications via WebSockets
-- Monitoring stack with Prometheus, Grafana, and Alertmanager
+| Project | Description |
+| --- | --- |
+| **ChiNet TMS** | Microservices-based Transport Management System — auth, marketplace, real-time notifications, monitoring |
+| **ChiNet Loadboard** | Freight loadboard platform connecting shippers and carriers |
+| **AI Bank Fraud Detection** | Machine learning system for real-time bank transaction fraud detection |
+| **Telematics System** | Vehicle tracking and fleet telematics platform |
+| **Inventory Management System** | Full-stack inventory tracking and management solution |
+| **Hotel Management System** | End-to-end hotel operations and booking management |
+| **Library Management System** | Digital library catalog and member management system |
 
 ---
 
@@ -66,8 +70,3 @@ I'm a full stack engineer focused on backend architecture and distributed system
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natty27&layout=compact&theme=default&hide_border=true)
 
 </div>
-
-
-📫 How to Reach Me
-[LinkedIn]: https://www.linkedin.com/in/natnael-araya-1144b826b/
-[Twitter]: https://x.com/Natnael_Alem24
