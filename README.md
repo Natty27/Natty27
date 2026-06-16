@@ -43,6 +43,7 @@ I'm a full stack engineer focused on backend architecture and distributed system
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ---
@@ -51,8 +52,8 @@ I'm a full stack engineer focused on backend architecture and distributed system
 
 | Project | Description |
 | --- | --- |
-| **ChiNet TMS** | Microservices-based Transport Management System — auth, marketplace, real-time notifications, monitoring |
-| **ChiNet Loadboard** | Freight loadboard platform connecting shippers and carriers |
+| **Transport Management System** | Microservices-based Transport Management System — auth, marketplace, real-time notifications, monitoring |
+| **Loadboard** | Freight loadboard platform connecting shippers, carriers and brokers |
 | **AI Bank Fraud Detection** | Machine learning system for real-time bank transaction fraud detection |
 | **Telematics System** | Vehicle tracking and fleet telematics platform |
 | **Inventory Management System** | Full-stack inventory tracking and management solution |
